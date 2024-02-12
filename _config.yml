@@ -1,0 +1,8 @@
+title: "Your GitBook Title"
+description: "Description of your GitBook"
+language: en
+root: /
+plugins:
+  - plugin-name:
+      option1: value1
+      option2: value2
